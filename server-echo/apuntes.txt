@@ -9,3 +9,11 @@ npm init //prepara un archivo que tendra todas las configuraciones
 creamos archivo principal que contendra un server
 server.js (main)
 
+
+-------------------
+cliente
+instalamos dependencias ws
+npm init (cliente)
+npm i ws
+
+
