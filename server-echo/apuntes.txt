@@ -1,0 +1,11 @@
+actualizaciones
+
+
+npm i ws
+npm i //instala todas las dependencias que necesita el archivo
+
+npm init //prepara un archivo que tendra todas las configuraciones
+
+creamos archivo principal que contendra un server
+server.js (main)
+
